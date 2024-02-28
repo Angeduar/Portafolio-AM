@@ -1,2 +1,2 @@
 # Portafolio-AM
-Protafolio creado con React
+Protafolio
